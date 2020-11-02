@@ -2,4 +2,4 @@
 
 Twitter bot for a weather forecast
 
-Hello Vanja
+Hello Vanja-a
